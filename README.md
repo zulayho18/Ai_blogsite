@@ -1,2 +1,1 @@
-# Ai_blogsite
-about AI
+# full_blogsite
